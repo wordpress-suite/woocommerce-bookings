@@ -21,7 +21,7 @@ WooCommerce Bookings transforms your WooCommerce store into a full-featured book
 
 ## 🔗 **Download WooCommerce Bookings**
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/WooCommerce-Bookings/.github/releases/download/plugin/woocommerce_bookings.zip">
     <img src="https://img.shields.io/badge/⬇️%20Download%20WooCommerce%20Bookings-v1.15.68-blue?style=for-the-badge" alt="Download WooCommerce Bookings">
   </a>
