@@ -1,6 +1,6 @@
 # 📅 WooCommerce Bookings – Free Download
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/wordpress-suite/woocommerce-bookings/blob/main/woocommerce-bookings.jpg?raw=true" alt="WooCommerce Bookings Banner">
 </p>
 
