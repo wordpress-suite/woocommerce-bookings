@@ -1,7 +1,7 @@
 # 📅 WooCommerce Bookings – Free Download
 
 <p align="center">
-  <img src="https://woocommerce.com/wp-content/uploads/2013/09/bookings.jpg" alt="WooCommerce Bookings Banner">
+  <img src="https://github.com/wordpress-suite/woocommerce-bookings/blob/main/woocommerce-bookings.jpg?raw=true" alt="WooCommerce Bookings Banner">
 </p>
 
 Welcome to **WordPress Suite’s WooCommerce Bookings page**, where you can access the premium WooCommerce Bookings plugin for **testing and educational evaluation**.
